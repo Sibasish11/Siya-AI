@@ -1,8 +1,5 @@
 # ***Siya-AI*** 🌐🚀🎓
 
-![GitHub License](https://img.shields.io/github/license/Sibasih11/Siya-AI)
-![GitHub Issues](https://img.shields.io/github/issues/Sibasih11/Siya-AI)---
-
 ## Description ✨🤖
 
 Siya-AI is an innovative project that creates a user-friendly environment for students to have productive education. Designed with a focus on accessibility, it primarily aids the hardships faced by dyslexic students while offering advanced features for all learners. Built with AI and IoT integration, it provides text-to-speech (TTS), speech-to-text (STT), image creation, focus mode, and multilingual support, making learning engaging and inclusive. Dive into a smarter educational tool! 🌟
@@ -96,3 +93,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact 📧💬
 
 For questions or feedback, reach out to [Sibasih11](https://github.com/Sibasih11) or open an issue in the repository. 😄
+Contact me on LinkedIn: www.linkedin.com/in/sibasish11
