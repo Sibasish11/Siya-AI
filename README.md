@@ -86,11 +86,11 @@ Please update `requirements.txt` for new dependencies and maintain the project s
 
 ## License 📜
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. ⚖️
+This project is licensed under the MIT License. ⚖️
 
 ---
 
 ## Contact 📧💬
 
-For questions or feedback, reach out to [Sibasih11](https://github.com/Sibasih11) or open an issue in the repository. 😄
+For questions or feedback, reach out to [Sibasish11](https://github.com/Sibasish11) or open an issue in the repository. 😄
 Contact me on LinkedIn: www.linkedin.com/in/sibasish11
